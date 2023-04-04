@@ -1,5 +1,5 @@
-
-[
+{
+"alerts": [
     {
     country: "US",
     nThumbsUp: 4,
@@ -82,3 +82,4 @@
     pubMillis: 1680630677000,
   }
     ]
+}
