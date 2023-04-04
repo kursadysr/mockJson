@@ -1,4 +1,6 @@
-{
+
+[
+    {
     country: "US",
     nThumbsUp: 4,
     city: "Parsippany-Troy Hills, NJ",
@@ -78,4 +80,5 @@
     },
     id: "alert-1687598106/0307032e-803b-4026-a90f-3dd3a000530f",
     pubMillis: 1680630677000,
-  }
+  },
+    ]
