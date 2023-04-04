@@ -21,23 +21,23 @@
                 {
                     "reportMillis": 1680631620000,
                     "text": "",
-                    "isThumbsUp": true,
+                    "isThumbsUp": true
                 },
                 {
                     "reportMillis": 1680631636000,
                     "text": "",
-                    "isThumbsUp": true,
+                    "isThumbsUp": true
                 },
                 {
                     "reportMillis": 1680631645000,
                     "text": "",
-                    "isThumbsUp": true,
+                    "isThumbsUp": true
                 },
                 {
                     "reportMillis": 1680631650000,
                     "text": "",
-                    "isThumbsUp": true,
-                },
+                    "isThumbsUp": true
+                }
             ],
             "isJamUnifiedAlert": false,
             "confidence": 1,
@@ -48,9 +48,9 @@
             "wazeData": "usa,-74.414092,40.863649,954aa0d8-8d9c-49c4-a96d-80664e4d48d5",
             "location": {
                 "x": -74.414092,
-                "y": 40.863649,
+                "y": 40.863649
             },
-            "pubMillis": 1680631519000,
+            "pubMillis": 1680631519000
         },
         {
             "reportBy": "floni",
@@ -76,10 +76,10 @@
             "wazeData": "usa,-73.864509,41.234087,0307032e-803b-4026-a90f-3dd3a000530f",
             "location": {
                 "x": -73.864509,
-                "y": 41.234087,
+                "y": 41.234087
             },
             "id": "alert-1687598106/0307032e-803b-4026-a90f-3dd3a000530f",
-            "pubMillis": 1680630677000,
+            "pubMillis": 1680630677000
         }
     ]
 }
