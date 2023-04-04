@@ -1,85 +1,31 @@
 {
-    "alerts": [
-        {
-            "country": "US",
-            "nThumbsUp": 4,
-            "city": "Parsippany-Troy Hills, NJ",
-            "reportRating": 3,
-            "reportByMunicipalityUser": "false",
-            "reliability": 10,
-            "type": "HAZARD",
-            "uuid": "954aa0d8-8d9c-49c4-a96d-80664e4d48d5",
-            "speed": 0,
-            "reportMood": 46,
-            "subtype": "HAZARD_ON_SHOULDER_CAR_STOPPED",
-            "street": "I-80 E",
-            "additionalInfo": "",
-            "id": "alert-1687669496/954aa0d8-8d9c-49c4-a96d-80664e4d48d5",
-            "nComments": 0,
-            "inscale": true,
-            "comments": [
-                {
-                    "reportMillis": 1680631620000,
-                    "text": "",
-                    "isThumbsUp": true
-                },
-                {
-                    "reportMillis": 1680631636000,
-                    "text": "",
-                    "isThumbsUp": true
-                },
-                {
-                    "reportMillis": 1680631645000,
-                    "text": "",
-                    "isThumbsUp": true
-                },
-                {
-                    "reportMillis": 1680631650000,
-                    "text": "",
-                    "isThumbsUp": true
-                }
-            ],
-            "isJamUnifiedAlert": false,
-            "confidence": 1,
-            "nImages": 0,
-            "roadType": 3,
-            "magvar": 101,
-            "showFacebookPic": false,
-            "wazeData": "usa,-74.414092,40.863649,954aa0d8-8d9c-49c4-a96d-80664e4d48d5",
-            "location": {
-                "x": -74.414092,
-                "y": 40.863649
-            },
-            "pubMillis": 1680631519000
-        },
-        {
-            "reportBy": "floni",
-            "country": "US",
-            "inscale": true,
-            "isJamUnifiedAlert": false,
-            "city": "Cortlandt, NY",
-            "reportRating": 5,
-            "reportByMunicipalityUser": "false",
-            "confidence": 0,
-            "reliability": 5,
-            "nImages": 0,
-            "type": "POLICE",
-            "uuid": "0307032e-803b-4026-a90f-3dd3a000530f",
-            "speed": 0,
-            "reportMood": 1,
-            "roadType": 7,
-            "magvar": 38,
-            "showFacebookPic": false,
-            "subtype": "POLICE_VISIBLE",
-            "street": "Mount Airy Rd E",
-            "additionalInfo": "",
-            "wazeData": "usa,-73.864509,41.234087,0307032e-803b-4026-a90f-3dd3a000530f",
-            "location": {
-                "x": -73.864509,
-                "y": 41.234087
-            },
-            "id": "alert-1687598106/0307032e-803b-4026-a90f-3dd3a000530f",
-            "pubMillis": 1680630677000
-        }
-    ]
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1"
+    },
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
